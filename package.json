@@ -1,15 +1,14 @@
 {
     "name": "readability",
     "version": "0.1.0",
-    "description": "Arc90's readability.js adapted to node.js",
+    "description": "Arc90's Readability.js adapted to node.js",
     "keywords": [
         "readability"
     ],
     "maintainers": [
         {
-            "name": "Arrix",
-            "email": "arrixzhou@gmail.com",
-            "web": "http://arrix.blogspot.com"
+            "name": "KJ",
+            "email": "antichrist@live.com"
         }
     ],
     "contributors": [
@@ -21,22 +20,29 @@
         {
             "name": "Vincent Cao",
             "email": "caojunvincent@gmail.com"
+        },
+        {
+            "name": "Masih Yeganeh",
+            "web": "https://github.com/masihyeganeh"
+        },
+        {
+            "name": "KJ",
+            "email": "antichrist@live.com"
         }
     ],
     "bugs": {
-        "mail": "arrixzhou@gmail.com",
-        "web": "http://github.com/arrix/node-readability/issues"
+        "web": "http://github.com/kjthegod/node-readability/issues"
     },
     "licenses": [
         {
-            "type": "MIT",
-            "url": "http://github.com/arrix/node-readability/LICENSE.txt"
+            "type": "PD",
+            "url": "http://github.com/kjthegod/node-readability/LICENSE.txt"
         }
     ],
     "repositories": [
         {
             "type": "git",
-            "url": "http://github.com/arrix/node-readability.git"
+            "url": "http://github.com/kjthegod/node-readability.git"
         }
     ],
     "dependencies": {
@@ -50,4 +56,3 @@
     },
     "main": "./lib/readability"
 }
-
